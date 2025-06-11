@@ -6,7 +6,6 @@ function Main(props) {
   return (
     <div>
       <main>
-        <div></div>
         <h2>Iyemifokhae Bello</h2>
         <hr />
         <p>{props.para}</p>

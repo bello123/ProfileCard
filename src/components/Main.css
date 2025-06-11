@@ -7,12 +7,6 @@ main {
 hr {
   opacity: 0.2;
 }
-main div {
-  width: 100%;
-  height: 100%;
-  filter: blur(21px);
-  z-index: 11111;
-}
 
 main h2 {
   font-size: 2.8rem;

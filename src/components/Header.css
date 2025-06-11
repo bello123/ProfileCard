@@ -3,7 +3,7 @@ img {
   border-radius: 100%;
 }
 .header {
-  background: url("images/bg.jpg");
+  background: url("/images/bg.jpg");
   background-size: cover;
   width: 100%;
   background-repeat: no-repeat;
