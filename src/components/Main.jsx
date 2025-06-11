@@ -10,7 +10,7 @@ function Main(props) {
         <h2>Iyemifokhae Bello</h2>
         <hr />
         <p>{props.para}</p>
-        <button>Follow</button>
+        <button>{props.button}</button>
       </main>
     </div>
   );
