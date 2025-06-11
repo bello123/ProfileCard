@@ -1,0 +1,41 @@
+img {
+  max-width: 100%;
+  border-radius: 100%;
+}
+.header {
+  background: url("images/bg.jpg");
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  padding: 9.8rem 3.2rem;
+
+  position: relative;
+}
+
+.Box {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* border: 2px solid blue; */
+  display: inline-block;
+}
+.photo-img {
+  width: 10rem;
+  border-radius: 100%;
+  border: 0.3rem solid #fff;
+  object-fit: fill;
+  position: relative;
+}
+
+.green-tick {
+  position: absolute;
+  bottom: 5px;
+  right: 4px;
+  background-color: green;
+  width: 1.6rem;
+  height: 1.61rem;
+  border-radius: 100%;
+  border: 2px solid #fff;
+}

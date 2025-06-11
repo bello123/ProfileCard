@@ -1,0 +1,43 @@
+main {
+  text-align: center;
+  padding: 6rem 3rem;
+  background-color: #fff;
+  color: #a61e4d;
+}
+hr {
+  opacity: 0.2;
+}
+main div {
+  width: 100%;
+  height: 100%;
+  filter: blur(21px);
+  z-index: 11111;
+}
+
+main h2 {
+  font-size: 2.8rem;
+  margin-bottom: 2.4rem;
+  line-height: 1.1;
+  letter-spacing: 1.2px;
+}
+
+main p {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-weight: 400;
+  margin-bottom: 4.8rem;
+}
+
+button {
+  display: inline-block;
+  color: #fff;
+  border: none;
+  border-radius: 1rem;
+  background-color: #a61e4d;
+  padding: 1.6rem 3.2rem;
+  font-size: 1.6rem;
+}
+
+button:focus {
+  outline: none;
+}
